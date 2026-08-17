@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0228-summary-ranges](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0228-summary-ranges) |
 ## Two Pointers
@@ -15,5 +16,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0088-merge-sorted-array) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

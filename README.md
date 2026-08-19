@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0191-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->

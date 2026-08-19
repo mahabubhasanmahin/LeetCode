@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0228-summary-ranges) |
 ## Two Pointers
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0209-minimum-size-subarray-sum](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0228-summary-ranges) |
 ## Two Pointers
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0149-max-points-on-a-line](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0149-max-points-on-a-line) |
 ## String
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 ## Tree
 |  |
@@ -114,4 +117,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0050-powx-n) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->

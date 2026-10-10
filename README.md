@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 ## Tree
@@ -129,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

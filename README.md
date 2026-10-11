@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0036-valid-sudoku) |
 | [0056-merge-intervals](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0066-plus-one) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0036-valid-sudoku) |
 | [0149-max-points-on-a-line](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0149-max-points-on-a-line) |
 ## String
 |  |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->

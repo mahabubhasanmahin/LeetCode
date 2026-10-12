@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0149-max-points-on-a-line) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0020-valid-parentheses) |
+| [0068-text-justification](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0068-text-justification) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0036-valid-sudoku) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->

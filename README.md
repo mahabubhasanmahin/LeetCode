@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0228-summary-ranges) |
 ## Two Pointers
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0036-valid-sudoku) |
 | [0149-max-points-on-a-line](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -154,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0068-text-justification) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mahabubhasanmahin/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
